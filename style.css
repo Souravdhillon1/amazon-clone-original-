@@ -17,8 +17,8 @@
 }
 .logo {
    margin-top:2px;
-    background-image:url("amazon-logo1.png");
-    background-size:cover;
+   /* background-image:url("amazon-logo1.png");
+    background-size:cover;*/
     height:50px;
     width:100%;
 
@@ -284,8 +284,8 @@ align-items:center;/*center of the vertical axis*/
  }
  .foot-logo{
     margin-top:2px;
-    background-image:url("amazon-logo1.png");
-    background-size:cover;
+   /* background-image:url("amazon-logo1.png");
+    background-size:cover;*/
     height:50px;
     width:160px;
  }
